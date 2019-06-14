@@ -1,0 +1,14 @@
+### VSCODE ###
+.vscode/
+
+### VENV ###
+Include/
+Lib/
+Scripts/
+pyvenv.cfg
+
+### Python ###
+__pycache__
+
+### Project ###
+Open in VS.bat
