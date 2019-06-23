@@ -1,6 +1,9 @@
 #!/usr/bin/env python
 
-""" Script to generate Problem Report Email """
+"""
+    Script to generate Problem Report Email
+    Though the function to email isn't included it's not hard to create one
+"""
 
 import datetime
 import time
